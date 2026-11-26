@@ -70,9 +70,9 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| 💍 **Walimah** *(private)* | Multi-tenant digital wedding invitations: one codebase serves every couple on their own URL, with admin dashboards, private RSVP links and per-wedding security | React · Supabase |
-| 🌦️ **Cuaca Agent** | Malay-language weather assistant: three Gemini agents for weather, activity ideas and day planning, served as a web app and a Telegram bot | Python · Google ADK · Gemini · Cloud Run |
-| 💰 **Money Manager** ([API](https://github.com/fikriupm/Money-Manager-api) · [web](https://github.com/fikriupm/moneymanager-react)) | Personal finance tracker with live charts and an AI assistant that answers questions about your transactions using RAG | Java 21 · Spring Boot · Spring AI · Redis · React · PostgreSQL |
+| 💍 **Walimah** ([live demo](https://e-walimah.netlify.app/)) | Multi-tenant digital wedding invitations: one codebase serves every couple on their own URL, with admin dashboards, private RSVP links and per-wedding security | React · Supabase |
+| 🌦️ **Cuaca Agent** ([live demo](https://weather-agent-517070770183.us-central1.run.app/)) | Malay-language weather assistant: three Gemini agents for weather, activity ideas and day planning, served as a web app and a Telegram bot | Python · Google ADK · Gemini · Cloud Run |
+| 💰 **Money Manager** ([live demo](https://fza-moneymanager.netlify.app/) · [API](https://github.com/fikriupm/Money-Manager-api) · [web](https://github.com/fikriupm/moneymanager-react)) | Personal finance tracker with live charts and an AI assistant that answers questions about your transactions using RAG | Java 21 · Spring Boot · Spring AI · Redis · React · PostgreSQL |
 | 🤝 **[Bucks Buddy](https://github.com/fikriupm/bucksbuddy)** | Peer-to-peer debt tracker on PayNet DuitNow. I led a team of 5 to **2nd runner-up** at the SE Team Project Finale | Flutter · Firebase |
 | 📈 **[GitHub Trending Repos](https://github.com/fikriupm/MFE-TrendingRepos-Etiqa)** | Most-starred repos from the last 10 days, with infinite scroll, date filtering and light/dark theme | React |
 
